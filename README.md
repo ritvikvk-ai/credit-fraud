@@ -1,2 +1,2 @@
-# credit-fraud
+# Credit Card Fraud Detection
 ** Site under update **
